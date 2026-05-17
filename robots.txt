@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aaradhya-constructions.vercel.app/sitemap.xml
